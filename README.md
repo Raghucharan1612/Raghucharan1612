@@ -1,168 +1,282 @@
-# Hi, I'm Raghu Charan R A 👋
+<!--
+  GITHUB PROFILE README
+  Repository: Raghucharan1612/Raghucharan1612
+-->
 
-### Python Developer | Full-Stack Developer | AI Enthusiast
+<div align="center">
 
-🎓 Computer Science Engineering Graduate — 2026  
-💻 Interested in building scalable backend systems, REST APIs, full-stack applications, and AI-powered solutions.
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:07111F,50:123B42,100:00C9A7&height=220&section=header&text=RAGHU%20CHARAN&fontSize=48&fontColor=FFFFFF&fontAlignY=38&desc=PYTHON%20%7C%20BACKEND%20%7C%20FULL%20STACK%20%7C%20AI&descAlignY=58&descSize=15" width="100%" alt="Raghu Charan developer portfolio banner"/>
 
-I am a developer with a strong interest in Python backend development, web technologies, databases, and artificial intelligence. I enjoy solving programming problems, designing application architectures, and building practical projects that address real-world requirements.
+<a href="https://github.com/Raghucharan1612">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&duration=3000&pause=900&color=00C9A7&center=true&vCenter=true&width=650&lines=Building+useful+software+with+Python;Designing+APIs+and+backend+systems;Exploring+microservices+and+Generative+AI;Turning+ideas+into+working+applications" alt="Animated developer introduction"/>
+</a>
 
-Currently, I am strengthening my skills in Python, Django, FastAPI, SQL, API development, and AI integration while building projects that demonstrate my software development capabilities.
+<br/>
 
----
+<a href="https://github.com/Raghucharan1612?tab=repositories">
+  <img src="https://img.shields.io/badge/EXPLORE%20PROJECTS-00C9A7?style=for-the-badge&logo=github&logoColor=07111F" alt="Explore projects"/>
+</a>
+<a href="https://github.com/Raghucharan1612">
+  <img src="https://img.shields.io/badge/GITHUB-111827?style=for-the-badge&logo=github&logoColor=white" alt="GitHub profile"/>
+</a>
 
-## 🚀 Featured Projects
+<br/><br/>
 
-### 1. OrganicKart — Organic Products E-Commerce Platform
+![Profile Views](https://komarev.com/ghpvc/?username=Raghucharan1612&style=flat-square&color=00C9A7&label=PROFILE+VIEWS)
+![Python](https://img.shields.io/badge/Python-Backend%20Development-3776AB?style=flat-square&logo=python&logoColor=white)
+![AI](https://img.shields.io/badge/AI-Application%20Integration-7C3AED?style=flat-square)
 
-**Tech Stack:** Python, FastAPI, React.js, JavaScript, MySQL, SQLAlchemy, JWT, REST APIs, Razorpay, Ollama
-
-An organic-products marketplace designed around a microservices architecture, connecting customers, farmers/vendors, administrators, and delivery partners.
-
-**Key Features**
-- Microservices architecture with a centralized API Gateway.
-- Role-based authentication and authorization using JWT.
-- Product catalog and vendor product management.
-- Shopping cart, order management, and delivery workflows.
-- Razorpay test-mode payment integration and payment verification.
-- AI-powered customer assistant using a locally hosted Ollama model.
-- Separate backend services for user, product, order, delivery, and notification functionality.
-
-**What I learned:** API gateway design, service separation, authentication, database integration, payment workflows, and local LLM integration.
-
-🔗 **Repository:** [OrganicKart](https://github.com/Raghucharan1612/OrganicKart)
+</div>
 
 ---
 
-### 2. SpinWheel — Used-Car Marketplace
+## `01 / ABOUT ME`
 
-**Tech Stack:** HTML5, CSS3, JavaScript, LocalStorage
+<img align="right" width="230" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Raghucharan1612&layout=donut&theme=transparent&hide_border=true&title_color=00C9A7&text_color=94A3B8" alt="Most-used programming languages"/>
 
-A web-based used-car marketplace built with a focus on responsive interfaces and interactive user experiences.
+I'm **Raghu Charan R A**, a Computer Science Engineering graduate (2026) focused on Python development, backend engineering, full-stack applications, and AI-powered software.
 
-**Key Features**
-- Interactive marketplace interface.
-- Multiple pages and reusable frontend assets.
-- Client-side state and demo persistence using LocalStorage.
-- Dynamic user interactions using JavaScript.
+I enjoy understanding how applications work end to end — from designing APIs and database schemas to connecting frontend interfaces and integrating AI capabilities.
 
-🔗 **Repository:** [SpinWheel](https://github.com/Raghucharan1612/Spin-Wheel)
+- **Primary focus:** Python backend development
+- **Backend:** Django, FastAPI, REST APIs
+- **Frontend:** React.js, JavaScript, HTML, CSS
+- **Data:** MySQL, SQLite
+- **Exploring:** Microservices, local LLMs, and AI integration
+- **Approach:** Learn by building, testing, debugging, and improving real projects
 
----
-
-### 3. Staff Leave Management System
-
-**Tech Stack:** Python, Django, HTML, CSS, Bootstrap, SQLite
-
-A web application that simplifies employee leave requests and administrative approval workflows.
-
-**Key Features**
-- Separate admin and staff roles.
-- Staff management and authentication.
-- Leave application, approval, and rejection.
-- Leave history and dashboard functionality.
-- Form validation and CRUD operations using Django ORM.
-
-🔗 **Repository:** [View my GitHub repositories](https://github.com/Raghucharan1612?tab=repositories)
+<br clear="right"/>
 
 ---
 
-### 4. Student Attendance Tracker
+## `02 / TECH STACK`
 
-**Tech Stack:** React.js, JavaScript ES6, HTML5, CSS3, React Router DOM, Axios
+<div align="center">
 
-A frontend application for managing student attendance and displaying attendance-related information.
+### Languages
 
-**Key Features**
-- Student attendance management.
-- Component-based UI development.
-- Client-side routing and state management.
-- Form validation and attendance statistics.
-- API communication using Axios.
+<img src="https://skillicons.dev/icons?i=python,js,html,css,mysql&theme=dark" alt="Python JavaScript HTML CSS and MySQL"/>
 
-🔗 **Repository:** [View my GitHub repositories](https://github.com/Raghucharan1612?tab=repositories)
+### Backend & Frontend
 
----
+<img src="https://skillicons.dev/icons?i=django,fastapi,react,vite,bootstrap&theme=dark" alt="Django FastAPI React Vite and Bootstrap"/>
 
-## 🛠️ Technical Skills
+### Databases, Tools & AI
 
-**Programming Languages**
-- Python
-- JavaScript (ES6+)
-- SQL
-- HTML5 and CSS3
+<img src="https://skillicons.dev/icons?i=mysql,sqlite,git,github,vscode,postman&theme=dark" alt="MySQL SQLite Git GitHub VS Code and Postman"/>
 
-**Backend Development**
-- Django
-- FastAPI
-- REST API development
-- JWT authentication and role-based access control
-- SQLAlchemy and Django ORM
+</div>
 
-**Frontend Development**
-- React.js
-- React Router DOM
-- Axios
-- Bootstrap
-- Responsive web development
+**Additional technical interests**
 
-**Databases**
-- MySQL
-- SQLite
-
-**AI and Machine Learning**
-- Generative AI fundamentals
-- Ollama and local LLM integration
-- AI-assisted application development
-- Basic machine learning concepts
-
-**Tools and Technologies**
-- Git and GitHub
-- Visual Studio Code
-- Postman
-- MySQL Workbench
-- Vite
+`JWT Authentication` · `SQLAlchemy` · `Django ORM` · `API Gateway` · `Microservices` · `Ollama` · `Generative AI` · `Razorpay Test Integration`
 
 ---
 
-## 🎓 Training and Professional Development
+## `03 / FEATURED PROJECT`
+
+<div align="center">
+
+<a href="https://github.com/Raghucharan1612/OrganicKart">
+  <img src="https://img.shields.io/badge/ORGANICKART-Featured%20Project-00C9A7?style=for-the-badge&logo=github&logoColor=07111F" alt="OrganicKart featured project"/>
+</a>
+
+### 🌿 OrganicKart
+
+**A microservices-based organic products e-commerce application with an AI-powered customer assistant.**
+
+</div>
+
+OrganicKart is my main project for exploring how multiple backend services can work together through a centralized API Gateway. It combines e-commerce workflows, role-based access, payment verification, and locally hosted language-model integration.
+
+**Architecture overview**
+
+```text
+                REACT + VITE
+                     |
+                     v
+              API GATEWAY :8000
+                     |
+        +------------+------------+
+        |            |            |
+        v            v            v
+    USER :8001   AI :8002    PRODUCT :8003
+        |                         |
+        +------------+------------+
+                     |
+          +----------+----------+
+          |          |          |
+          v          v          v
+      ORDER :8004 DELIVERY   NOTIFICATION
+                    :8005       :8006
+
+       MySQL databases / service persistence
+       Local LLM integration through Ollama
+```
+
+**Key engineering features**
+
+- Centralized API routing between the frontend and backend services.
+- JWT-based authentication and role-specific access.
+- Product catalog and vendor/farmer product management.
+- Cart, order processing, delivery workflows, and payment verification.
+- Razorpay test-mode checkout integration.
+- Local LLM-powered customer assistance using Ollama.
+- Separate service responsibilities instead of a single monolithic backend.
+
+**Technologies**
+
+`Python` `FastAPI` `React` `MySQL` `JWT` `REST APIs` `Ollama` `Razorpay`
+
+<div align="center">
+
+<a href="https://github.com/Raghucharan1612/OrganicKart">
+  <img src="https://img.shields.io/badge/VIEW%20SOURCE%20CODE-181717?style=for-the-badge&logo=github&logoColor=white" alt="View OrganicKart source code"/>
+</a>
+
+</div>
+
+---
+
+## `04 / OTHER PROJECTS`
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🚗 SpinWheel
+
+**Used-Car Marketplace**
+
+A frontend web application focused on interactive marketplace experiences and client-side data persistence.
+
+**Stack**
+
+`HTML` `CSS` `JavaScript` `LocalStorage`
+
+<a href="https://github.com/Raghucharan1612?tab=repositories">Explore repositories →</a>
+
+</td>
+<td width="50%" valign="top">
+
+### 🏢 Staff Leave Management
+
+**Django Web Application**
+
+An employee leave management application covering staff workflows, leave requests, administrative approvals, and leave history.
+
+**Stack**
+
+`Python` `Django` `SQLite` `Bootstrap`
+
+<a href="https://github.com/Raghucharan1612?tab=repositories">Explore repositories →</a>
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🎓 Student Attendance Tracker
+
+**React Application**
+
+A frontend project focused on component-based interfaces, attendance workflows, routing, and API communication.
+
+**Stack**
+
+`React` `JavaScript` `Axios` `CSS`
+
+<a href="https://github.com/Raghucharan1612?tab=repositories">Explore repositories →</a>
+
+</td>
+<td width="50%" valign="top">
+
+### 🧪 Continuous Learning
+
+**Python & Backend Engineering**
+
+Practising object-oriented programming, data structures, SQL, API design, debugging, and software testing.
+
+**Focus**
+
+`Python` `OOP` `DSA` `SQL` `REST APIs`
+
+<a href="https://github.com/Raghucharan1612?tab=repositories">Explore repositories →</a>
+
+</td>
+</tr>
+</table>
+
+---
+
+## `05 / GITHUB ANALYTICS`
+
+<div align="center">
+
+<a href="https://github.com/Raghucharan1612">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Raghucharan1612&show_icons=true&theme=transparent&hide_border=true&title_color=00C9A7&icon_color=00C9A7&text_color=94A3B8&rank_icon=github" alt="GitHub contribution statistics"/>
+</a>
+
+<a href="https://github.com/Raghucharan1612">
+  <img height="170" src="https://streak-stats.demolab.com?user=Raghucharan1612&theme=transparent&hide_border=true&ring=00C9A7&fire=00C9A7&currStreakLabel=00C9A7&sideLabels=94A3B8&dates=64748B" alt="GitHub contribution streak"/>
+</a>
+
+<br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Raghucharan1612&bg_color=00000000&color=00C9A7&line=00C9A7&point=FFFFFF&area=true&hide_border=true" width="100%" alt="GitHub activity graph"/>
+
+</div>
+
+---
+
+## `06 / LEARNING ROADMAP`
+
+<div align="center">
+
+| Area | Current direction |
+|:---|:---|
+| Python | Advanced language concepts and problem-solving |
+| Backend | REST API design, authentication, and testing |
+| Databases | SQL, schema design, and query optimization |
+| Architecture | Microservices and service-to-service integration |
+| AI Engineering | Local LLMs and practical AI application workflows |
+| Engineering practices | Git, debugging, maintainability, and documentation |
+
+</div>
+
+---
+
+## `07 / PROFESSIONAL DEVELOPMENT`
 
 **Technical Trainee — Engineering Department**  
-Dhee Coding Lab | ProDhee Technologies
+**Dhee Coding Lab · ProDhee Technologies**
 
-**Training Track:** Python Full Stack with Gen AI
+*Training track: Python Full Stack with Gen AI*
 
-Training areas included:
-- Core Python programming
-- HTML, CSS, and JavaScript
-- MySQL database fundamentals
-- Django web development
-- Generative AI concepts and Google AI Studio
-
-Applied these concepts through hands-on programming exercises and web application development.
+Training and practical work covering Python, HTML, CSS, JavaScript, MySQL, Django, and Generative AI fundamentals, including Google AI Studio.
 
 ---
 
-## 📈 Currently Improving
+## `08 / LET'S CONNECT`
 
-- Advanced Python and object-oriented programming.
-- Data structures and algorithms.
-- Backend system design and microservices.
-- Database design, SQL queries, and optimization.
-- REST API security, testing, and debugging.
-- Practical AI integration with backend applications.
+<div align="center">
 
----
+I'm interested in entry-level opportunities in **Python Development, Backend Engineering, Full-Stack Development, and AI-powered applications.**
 
-## 🤝 Let's Connect
+<a href="https://github.com/Raghucharan1612">
+  <img src="https://img.shields.io/badge/GitHub-Raghu%20Charan-181717?style=for-the-badge&logo=github" alt="GitHub"/>
+</a>
+<a href="https://github.com/Raghucharan1612?tab=repositories">
+  <img src="https://img.shields.io/badge/Projects-Explore%20My%20Work-00C9A7?style=for-the-badge&logo=github&logoColor=07111F" alt="Project repositories"/>
+</a>
 
-I'm interested in Python Developer, Backend Developer, Full-Stack Developer, and AI-focused entry-level opportunities.
+**LinkedIn:** Add your LinkedIn profile URL here  
+**Email:** Add your professional email address here
 
-- **GitHub:** [@Raghucharan1612](https://github.com/Raghucharan1612)
-- **Repositories:** [Explore my projects](https://github.com/Raghucharan1612?tab=repositories)
+<br/>
 
-Feel free to explore my repositories, share feedback, or connect to discuss software development and technology.
+*Building consistently. Learning continuously. Engineering with purpose.*
 
----
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C9A7,50:123B42,100:07111F&height=100&section=footer" width="100%" alt="Decorative footer banner"/>
 
-⭐ *Thanks for visiting my profile!*
+</div>
