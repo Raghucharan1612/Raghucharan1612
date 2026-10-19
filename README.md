@@ -154,7 +154,7 @@ A frontend web application focused on interactive marketplace experiences and cl
 
 `HTML` `CSS` `JavaScript` `LocalStorage`
 
-<a href="https://github.com/Raghucharan1612?tab=repositories">Explore repositories →</a>
+<a href="https://spin-wheel-beta-five.vercel.app/">Explore repositories →</a>
 
 </td>
 <td width="50%" valign="top">
